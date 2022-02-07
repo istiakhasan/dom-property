@@ -3,3 +3,9 @@
 3.getElementsByClassName=loop then style
 4.querySelector='.#'
 5.querySelectorAll= '.#'-loop thn style
+6.createElement=notun element create korar jonno
+  example=document.createElement('p')
+  example=document.createElement('ul')
+  example=document.createElement('div')
+7.classList.add('className')
+example=article.classList.add('blog')
