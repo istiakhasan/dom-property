@@ -1,0 +1,5 @@
+1.getElementsByTagName=loop then style
+2.getElementsById
+3.getElementsByClassName=loop then style
+4.querySelector='.#'
+5.querySelectorAll= '.#'-loop thn style
